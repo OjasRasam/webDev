@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#card {
+    height: 70vh;
+    width: 50vw;
+    background-color: black;
+    color: black;
+
+    
+}
+#future {
+    width: 90%;
+    margin-left: 15px;
+    border: 10px solid white;
+    /* display: none; */
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Tilt Prism", sans-serif;
+    font-weight: 400;
+    font-size: 4vw;
+}
+h3 { 
+    color: white;
+    text-align: center;
+    font-family: "Tilt Prism", sans-serif;
+    font-weight: 400;
+    font-size: 2vw;
+}
